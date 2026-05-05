@@ -1,0 +1,72 @@
+# ========================
+# IntelliJ IDEA
+# ========================
+.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# ========================
+# Eclipse
+# ========================
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# NetBeans
+# ========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ========================
+# Java / Build files
+# ========================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Environment / Secrets
+# ========================
+.env
+application.properties
+application.yml
+
+# ========================
+# Database / Local Files
+# ========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log

@@ -1,3 +1,1 @@
-A console-based Bus Booking Management System built using **Java, JDBC, and MySQL**.
-The application allows users to manage buses, book tickets, and track passenger data
-with real-time seat availability handling.
+A Java-based console application using JDBC and MySQL for bus booking management, featuring real-time seat availability, ticket booking, bus management, and passenger data tracking.
